@@ -1,0 +1,1 @@
+Here's a binary called "vortex". Apparently it transforms an input string using different algorithms, although one of them takes ages to complete. Perhaps it never completes at all. We believe the flag is the result of processing the classic "The quick brown fox jumps over the lazy dog" string. Can you get the flag?
